@@ -51,32 +51,6 @@
     </tbody>
 </table>
 
-### Mobile App Development
-<table>
-    <tbody align="center">
-        <tr>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="50">
-                <div>
-                    Xamarin
-                </div>
-            </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50">
-                <div>
-                    C#
-                </div>
-            </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50">
-                <div>
-                    Visual Studio
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### Backend Development
 <table>
     <tbody align="center">
@@ -173,6 +147,32 @@
                 <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" height="50">
                 <div>
                     Jupyter
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Mobile App Development
+<table>
+    <tbody align="center">
+        <tr>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="50">
+                <div>
+                    Xamarin
+                </div>
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50">
+                <div>
+                    C#
+                </div>
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50">
+                <div>
+                    Visual Studio
                 </div>
             </td>
         </tr>
