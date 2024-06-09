@@ -1,55 +1,15 @@
 <div>
     <div>
         <h3 align="center">🙏 Namaste 🙏</h3>
-        <span>I am Kartikey Kumar, a software developer from India, who is always curious to learn different domains of software engineering! I have worked on various technologies with different teams as part of my career and I can quickly learn and adapt to new tech stack.</span>
-    </div>
-    <br>
-    <div>
-        <span>🤩 My Favourite IDE is <code>VSCode</code> and I prefer <code>Node.js</code> as scripting language!</span>
+        <span>I am Kartikey Kumar, a software developer from India, who is always curious to learn different domains of software engineering!</span>
+        <br><br>
+        <span>I have worked on various technologies with different teams as part of my career and I can quickly learn and adapt to new tech stack.</span>
     </div>
 </table>
 
 ---
 
 ## Skills
-
-### Web Technologies
-<table>
-    <tbody align="center">
-        <tr>
-            <td>
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" height="50">
-                <div>
-                    React.js
-                </div>
-            </td>
-            <td>
-                <img src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true" alt="Node.js" height="50">
-                <div>
-                    Node.js
-                </div>
-            </td>
-            <td>
-                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="50">
-                <div>
-                    Typescript
-                </div>
-            </td>
-            <td>
-                <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="Graphql" height="50">
-                <div>
-                    Graphql
-                </div>
-            </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50">
-                <div>
-                    VSCode
-                </div>
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 ### Backend Development
 <table>
@@ -83,6 +43,44 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij IDEA" height="50">
                 <div>
                     Intellij IDEA
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Web Technologies
+<table>
+    <tbody align="center">
+        <tr>
+            <td>
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" height="50">
+                <div>
+                    React.js
+                </div>
+            </td>
+            <td>
+                <img src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true" alt="Node.js" height="50">
+                <div>
+                    Node.js
+                </div>
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="50">
+                <div>
+                    Typescript
+                </div>
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" alt="Graphql" height="50">
+                <div>
+                    Graphql
+                </div>
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50">
+                <div>
+                    VSCode
                 </div>
             </td>
         </tr>
