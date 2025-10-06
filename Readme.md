@@ -162,7 +162,7 @@
                 </div>
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50" width="50">
                 <div>
                     C#
                 </div>
